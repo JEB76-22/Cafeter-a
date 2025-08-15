@@ -10,7 +10,7 @@
 
 
 **Screenshot**
-![image](img/caferia.png)
+![image](build/img/caferia.png)
 ![image](img/caferia1.png)
 ![image](img/caferia2.png)
 ![image](img/caferia3.png)
