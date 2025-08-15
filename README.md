@@ -4,6 +4,8 @@
 
 **Cafetería** es un sitio web moderno y elegante diseñado para mostrar los servicios y productos de una cafetería de alta calidad. El proyecto presenta un diseño responsivo con una interfaz de usuario intuitiva y atractiva, perfecta para atraer clientes y mostrar la experiencia gastronómica única.
 
+
+
 ## ✨ Funcionalidades
 
 ### 🏠 **Páginas Principales**
