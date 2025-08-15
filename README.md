@@ -4,7 +4,19 @@
 
 **Cafetería** es un sitio web moderno y elegante diseñado para mostrar los servicios y productos de una cafetería de alta calidad. El proyecto presenta un diseño responsivo con una interfaz de usuario intuitiva y atractiva, perfecta para atraer clientes y mostrar la experiencia gastronómica única.
 
+## 🌐 Demo en Vivo
 
+**Visita el sitio web:** [cafeteria.app](https://cafeteria2025jebdev.netlify.app/)
+
+## 📸 Capturas de Pantalla
+
+![Vista Principal](build/img/cafeteria.png)
+![Página del Menú](build/img/cafeteria2.png)
+![Galería de Imágenes](build/img/cafeteria3.png)
+![Página Nosotros](build/img/cafeteria4.png)
+![Proceso del Café](build/img/cafeteria5.png)
+![Formulario de Contacto](build/img/cafeteria6.png)
+![Vista Móvil](build/img/cafeteria7.png)
 
 ## ✨ Funcionalidades
 
@@ -61,8 +73,8 @@
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/cafeteria.git
-   cd cafeteria
+   git clone https://github.com/JEB76-22/Cafeter-a.git
+   cd Cafeter-a
    ```
 
 2. **Instalar dependencias**
@@ -147,11 +159,12 @@ El proyecto está diseñado para ser fácilmente personalizable:
 
 ## 👨‍💻 Autor
 
-**JEB$DEV** - Desarrollador Web Full Stack
+**JEB$DEV** - Desarrollador Web Front End
 
 - **Especialización**: Frontend, SASS, Gulp, HTML/CSS
 - **Enfoque**: Diseño web moderno y responsivo
-- **Contacto**: [Tu información de contacto]
+- **Contacto**: [j.e.b.inter@gmail.com](mailto:j.e.b.inter@gmail.com)
+- **Repositorios**: [JEB$DEV](https://github.com/JEB76-22?tab=repositories)
 
 ## 📄 Licencia
 
