@@ -18,6 +18,7 @@
 ![image](img/caferia5.png)
 ![image](img/caferia6.png)
 ![image](img/caferia7.png)
+https://github.com/JEB76-22/Cafeter-a/blob/0638383aaa616f8ef18370c82f73ff12aa978f5a/build/img/cafeteria.png
 
 
 ## ✨ Funcionalidades
