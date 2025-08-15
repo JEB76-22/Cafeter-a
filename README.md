@@ -12,13 +12,13 @@
 ##Screenshot
 
 ![image](build/img/cafeteria.png)
-![image](build/img/caferia1.png)
-![image](build/img/caferia2.png)
-![image](build/img/caferia3.png)
-![image](build/img/caferia4.png)
-![image](build/img/caferia5.png)
-![image](build/img/caferia6.png)
-![image](build/img/caferia7.png)
+![image](build/img/cafeteria1.png)
+![image](build/img/cafeteria2.png)
+![image](build/img/cafeteria3.png)
+![image](build/img/cafeteria4.png)
+![image](build/img/cafeteria5.png)
+![image](build/img/cafeteria6.png)
+![image](build/img/cafeteria7.png)
 
 
 
