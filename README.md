@@ -12,7 +12,6 @@
 ##Screenshot
 
 ![image](build/img/cafeteria.png)
-![image](build/img/cafeteria1.png)
 ![image](build/img/cafeteria2.png)
 ![image](build/img/cafeteria3.png)
 ![image](build/img/cafeteria4.png)
