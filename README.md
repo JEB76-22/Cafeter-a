@@ -4,22 +4,22 @@
 
 **Cafetería** es un sitio web moderno y elegante diseñado para mostrar los servicios y productos de una cafetería de alta calidad. El proyecto presenta un diseño responsivo con una interfaz de usuario intuitiva y atractiva, perfecta para atraer clientes y mostrar la experiencia gastronómica única.
 
-**Demo**
-[cafetria.app](https://cafeteria2025jebdev.netlify.app/)
+##Demo
+[cafeteria.app](https://cafeteria2025jebdev.netlify.app/)
 
 
 
-**Screenshot**
+##Screenshot
 
 ![image](build/img/cafeteria.png)
-![image](img/caferia1.png)
-![image](img/caferia2.png)
-![image](img/caferia3.png)
-![image](img/caferia4.png)
-![image](img/caferia5.png)
-![image](img/caferia6.png)
-![image](img/caferia7.png)
-https://github.com/JEB76-22/Cafeter-a/blob/0638383aaa616f8ef18370c82f73ff12aa978f5a/build/img/cafeteria.png
+![image](build/img/caferia1.png)
+![image](build/img/caferia2.png)
+![image](build/img/caferia3.png)
+![image](build/img/caferia4.png)
+![image](build/img/caferia5.png)
+![image](build/img/caferia6.png)
+![image](build/img/caferia7.png)
+
 
 
 ## ✨ Funcionalidades
